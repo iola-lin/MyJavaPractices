@@ -16,7 +16,6 @@ public class EasyIntTest{
 		byte two = (byte) 0b00000010;
 		byte one2 = (byte) 00000001;
 		byte one3 = 00000001;
-		// 不能串接嗎?
 		System.out.println(one);
 		System.out.println(two);
 		System.out.println(one2);
